@@ -1,3 +1,5 @@
+This project was made as an in class project for the Class: CSCI0170: Computer Science: An Integrated Introduction
+
 User Instructions + Overview: 
 
 Users can input into a Rackette string representing a raw program, for instance “(+ 3 2)”. This will first be read into a concrete program,
